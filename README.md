@@ -12,8 +12,7 @@ A VS Code extension that integrates Ollama's DeepSeek model for local AI assista
 - 🎨 Adaptive theme support - matches your VS Code theme
 - ⌨️ Keyboard shortcuts for efficient interaction
 
-
-![Extension Demo](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/1779ff47-f975-011d-8c13-1c222968c41f.gif)
+https://github.com/user-attachments/assets/8a51a6f0-249e-4476-8fe8-c905c984bf32
 
 ## Requirements
 
